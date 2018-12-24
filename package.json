@@ -1,0 +1,8 @@
+{
+  "name": "myPet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/FoxyFoxRed/myPet.git",
+  "author": "Anastasia Panteleeva <PanteleevaAA@msk.bcs.ru> <foxyfoxred@gmail.com>",
+  "license": "MIT"
+}
